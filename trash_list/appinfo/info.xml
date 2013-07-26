@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+	<id>trash_list</id>
+	<name>Trashlist</name>
+	<licence>GPL</licence>
+	<author>PS Cloudservices @ Uni - Muenster</author>
+	<require>4.93</require>
+	<shipped>true</shipped>
+	<description>
+	This plugin delivers a data id for all files in trash in JSON-Format.
+	</description>
+	<default_enable/>
+</info>

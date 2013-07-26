@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+	<id>data_id</id>
+	<name>Data ID</name>
+	<licence>GPL</licence>
+	<author>PS Cloudservices @ Uni - Muenster</author>
+	<require>4.93</require>
+	<shipped>true</shipped>
+	<description>
+	This plugin delivers a data id for a requested file path.
+	</description>
+	<default_enable/>
+</info>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+	<id>requesttoken</id>
+	<name>Request token</name>
+	<licence>GPL</licence>
+	<author>PS Cloudservices @ Uni - Muenster</author>
+	<require>4.93</require>
+	<shipped>true</shipped>
+	<description>
+	This plugin delivers the "Requesttoken" to use it in Apps
+	</description>
+	<default_enable/>
+</info>

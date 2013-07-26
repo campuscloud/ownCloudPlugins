@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+	<id>fileee_ocr</id>
+	<name>Fileee OCR</name>
+	<licence>GPL</licence>
+	<author>PS Cloudservices @ Uni - Muenster</author>
+	<require>4.93</require>
+	<shipped>true</shipped>
+	<description>
+	This plugin enables the fileee OCR service in ownCloud. You can send your image-files to the fileee service to get the text content.
+	</description>
+	<default_enable/>
+</info>
